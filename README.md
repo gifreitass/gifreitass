@@ -1,16 +1,26 @@
-## Hi there 👋
+<p>
+  <img src="capa.png" width="400" alt="Capa" />
+</p>
+<h1>hello 👋🏼</h1>
 
-<!--
-**gifreitass/gifreitass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>· · · ✿ · · ·</p>
 
-Here are some ideas to get you started:
+## 👩🏼‍💻 tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/Python-EC4899?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F472B6?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-F472B6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-F472B6?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-F472B6?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-F472B6?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-EC4899?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+## 💌 redes sociais
+
+<p>
+  <a href="https://portfolio-ivory-three-17.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-EC4899?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gifreitasss/"><img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
